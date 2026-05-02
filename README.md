@@ -1,10 +1,10 @@
-# 🛡️ PROFESSIONAL ANTIVIRUS v1.0
+#  PROFESSIONAL ANTIVIRUS v1.0
 
 ## Description
 
 A complete and functional antivirus in Python with professional cybersecurity features including:
 
-### ✨ Main Features
+###  Main Features
 
 #### 1. **Antimalware Scanner**
 - **Quick Scan**: Checks for known malware and ransomware signatures
@@ -63,19 +63,20 @@ A complete and functional antivirus in Python with professional cybersecurity fe
 
 ---
 
-## 📋 Requirements
+##  Requirements
 
 - Python 3.7 or higher
 - Standard libraries only (no additional installation required)
 
 ---
 
-## 🚀 Installation and Use
+##  Installation and Use
 
 ### 1. Clone/Download the project
 
 ```bash
-cd c:\Python-projects\AntiVirus
+cd c:\the name of your folder
+\AntiVirus
 ```
 
 ### 2. Run the antivirus
@@ -161,7 +162,7 @@ Once authenticated, you will access the control panel with the following options
 
 ---
 
-## 🔍 Usage Examples
+##  Usage Examples
 
 ### Scan a file
 1. Select option 1 from the main menu
@@ -182,7 +183,7 @@ Once authenticated, you will access the control panel with the following options
 
 ---
 
-## 📁 Directory Structure
+##  Directory Structure
 
 ```
 AntiVirus/
@@ -294,7 +295,7 @@ All logs are automatically saved in the `data/` directory
 
 ---
 
-## ⚙️ Configuration by Default
+##  Configuration by Default
 
 - **Scan Level**: Fast
 - **Auto Update**: Enabled
@@ -304,7 +305,7 @@ All logs are automatically saved in the `data/` directory
 
 ---
 
-## 🔄 Update Database
+##  Update Database
 
 1. From the main menu, select option 7
 2. Select "Update Database"
@@ -312,7 +313,7 @@ All logs are automatically saved in the `data/` directory
 
 ---
 
-## 📞 Support
+##  Support
 
 To report problems or suggestions:
 - Check the logs in `data/logs.json`
@@ -321,13 +322,13 @@ To report problems or suggestions:
 
 ---
 
-## 📄 License
+##  License
 
 MIT License - Free to use and modify
 
 ---
 
-## 🙏 Credits
+## Credits
 
 Developed by CIBERESPAI Team
 
@@ -346,7 +347,7 @@ Developed by CIBERESPAI Team
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This antivirus is an educational and demonstration tool. For production protection, it is recommended to use certified commercial solutions such as:
 - Windows Defender

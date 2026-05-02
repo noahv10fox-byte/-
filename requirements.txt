@@ -1,0 +1,19 @@
+# Professional Antivirus - Requirements
+# This project only uses standard Python libraries
+
+# No external dependencies required
+# Python 3.7+ only
+
+# For developers who want to contribute:
+# pip install -r requirements-dev.txt
+
+# Standard libraries used:
+# - json: JSON file handling
+# - hashlib: SHA256 hashing
+# - pathlib: Path handling
+# - datetime: Date/time handling
+# - os: System operations
+# - re: Regular expressions
+# - getpass: Secure password entry
+# - collections: Default dictionary
+# - subprocess: Command execution
